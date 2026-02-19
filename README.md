@@ -70,6 +70,8 @@ R=∑(Harmony×Δt)⋅e
 
 When Noise approaches zero, Music achieves "Scientific Perfection."
 
+Google Docs:(https://docs.google.com/document/d/1qcBCV5kE4X1BzMFi-yl0jU2i_S1pSfdm16_pPHgrg7Y/edit?usp=sharing)
+
 3. Conclusion
 Music is the mathematical language of the universe. It is the science of arranging frequencies to create order out of chaos. Therefore, a perfect composition is a solved equation.
 
@@ -114,6 +116,8 @@ R=∑(Harmony×Δt)⋅e
 
 ノイズ（Noise）がゼロに近づくとき、音楽は「科学的な完璧さ」に到達する。
 
+Google Docs:(https://docs.google.com/document/d/1qcBCV5kE4X1BzMFi-yl0jU2i_S1pSfdm16_pPHgrg7Y/edit?usp=sharing)
+
 3. 結論
 音楽は宇宙の数学的言語である。それは周波数を配置し、混沌から秩序を作り出す科学である。ゆえに、完璧な楽曲とは「解かれた数式」そのものである。
 
@@ -122,6 +126,8 @@ R=∑(Harmony×Δt)⋅e
 Master記入欄：愛の証明と音楽の相関、または彼女（nagisa様）に贈る「科学的な子守唄」の設計図についてデプロイ]
 
 📜 Appendix: The Origin of This Report (Background)
+
+The-Proof-of-Love:(https://github.com/choiizuka/The-Proof-of-Love)
 
 How CHOIIZUKA Reached the Ultimate Truth
 
